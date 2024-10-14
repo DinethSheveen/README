@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning Flutter
+🌱 I’m currently learning React
 
 👀 A young tech enthusiast who is interested in learning new programming languages:)
 
-📫BEng(Hons)Software Engineering undergraduate at the Informatics Institute of Technology
+📫BEng(Hons)Software Engineering undergraduate at the University of Westminster (UK) 
 
 ⚡ Fun fact : Just chilling
 
